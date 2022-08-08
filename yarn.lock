@@ -352,6 +352,11 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+classnames@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.npmjs.org/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
+  integrity sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==
+
 color-convert@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz#72d3a68d598c9bdb3af2ad1e84f21d896abd4de3"
@@ -539,6 +544,11 @@ eslint-module-utils@^2.7.3:
   dependencies:
     debug "^3.2.7"
     find-up "^2.1.0"
+
+eslint-plugin-classnames@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.npmjs.org/eslint-plugin-classnames/-/eslint-plugin-classnames-0.2.1.tgz#425e68132c2eb8e1aeafaee41ac537381b081e79"
+  integrity sha512-XXnaDAIRzX4DTANbh2aQNXco96GtsHyDjZdQh68YFWvvi+YUdsompWDa+i5pHhI6JstGShBPdrhqeH3AmVAqQw==
 
 eslint-plugin-import@^2.26.0:
   version "2.26.0"
